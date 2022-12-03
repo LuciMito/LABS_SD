@@ -1,3 +1,3 @@
 # LABS_SD
  
-Códigos das aulas de laboratório de C216.
+Repositório dedicado aos exercícios das aulas de laboratório de Sistemas Distribuídos (C216).
