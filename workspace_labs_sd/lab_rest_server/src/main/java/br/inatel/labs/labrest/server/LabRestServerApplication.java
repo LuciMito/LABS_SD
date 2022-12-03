@@ -1,4 +1,4 @@
-package br.inatel.labs.lab_rest_server;
+package br.inatel.labs.labrest.server;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
